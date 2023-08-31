@@ -1,3 +1,4 @@
 pembelajaran msib
 - HTML adalah kerangka website
-- CSS style dokumen HTML
+- CSS style dokumen html
+- Github adalah pembelajaran untuk dapat bekerja sama didalam project
