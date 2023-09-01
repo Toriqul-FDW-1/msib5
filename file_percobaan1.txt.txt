@@ -6,3 +6,4 @@ git commit -m -> untuk menambah tanda atau komentar
 git push -u -> untuk memmastikan file masuk kedalam repo
 git config --global user.name -> untuk memasukan settingan username kedalam git kita
 git config -- global user.email -> untuk memmsaukan settingan email kedalam git kita
+git init -> digunakan jika ingin komputer dan github terhubung dam biasanya digunakan ketiks akan melakukan remote
